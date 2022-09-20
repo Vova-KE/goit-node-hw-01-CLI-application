@@ -1,0 +1,25 @@
+{
+  "name": "goit-node-hw-01-cli-application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vova-KE/goit-node-hw-01-CLI-application.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vova-KE/goit-node-hw-01-CLI-application/issues"
+  },
+  "homepage": "https://github.com/Vova-KE/goit-node-hw-01-CLI-application#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
